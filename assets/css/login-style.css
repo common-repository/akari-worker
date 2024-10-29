@@ -1,0 +1,8 @@
+.login-action-login #login h1 a {
+    background-image: url("/wp-content/plugins/akari-worker/assets/img/akari-brandmark.svg");
+    height: 100px;
+    width: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+}

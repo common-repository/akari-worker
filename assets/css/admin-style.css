@@ -1,0 +1,21 @@
+.akari-worker-notice {
+    background: rgb(255,255,255);
+    background: linear-gradient(45deg, #fff 0%, #fff 60%, #064F55 60%, #064F55 100%);
+    padding-bottom: 10px;
+}
+
+.akari-worker-notice.notice-info {
+    border-left-color:#064F55;
+}
+
+.akari-worker-notice .admin-notice-text {
+    padding: 25px;
+}
+
+.akari-worker-notice .admin-notice-text h1, .akari-worker-notice .admin-notice-text a {
+    font-weight: bold;
+}
+
+.akari-worker-notice .akari-worker-website-link {
+    display: inline-block;
+}
